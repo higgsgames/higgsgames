@@ -1,16 +1,40 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APK DOMINO TERBARU - Download</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-<!--
-**higgsgames/higgsgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <div class="container">
+        <header>
+            <h1>AP DOMINO TERBARU</h1>
+            <p>Bot untuk Higgs Domino Island</p>
+        </header>
 
-Here are some ideas to get you started:
+        <!-- DOWNLOAD SECTION -->
+        <section id="download">
+            <h2>📥 Download (Latest)</h2>
+            <ul>
+                <li><a href="https://www.mediafire.com/file/xpa7skqjry5ckh0/" target="_blank">64bit</a></li>
+                <li><a href="https://www.mediafire.com/file/2ok4efy6hi6928r/" target="_blank">32bit</a></li>
+            </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        <!-- FAQ SECTION -->
+        <section id="faq">
+            <h2>❓ FAQ</h2>
+            <div class="faq-item">
+                <p><b>Apa yang harus saya lakukan jika tidak bisa install APK?</b></p>
+                <p>Coba semua versi APK sampai cocok dengan perangkat kamu.</p>
+            </div>
+            <div class="faq-item">
+                <p><b>Muncul error Play Protect?</b></p>
+                <p>Ini normal untuk APK di luar Play Store. Pilih “Install anyway” / izinkan pemasangan.</p>
+            </div>
+        </section>
+    </div>
+
+</body>
+</html>
